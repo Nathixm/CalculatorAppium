@@ -1,3 +1,5 @@
+wdio.conf.js
+
 # Logs
 logs
 *.log
